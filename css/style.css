@@ -16,6 +16,7 @@ h3 {
 
 h1 {
   font-size: 96px;
+  padding-top: 50px;
 }
 
 h2 {
@@ -81,6 +82,7 @@ p {
   color: var(--primary-color);
   font-size: 28px;
   text-decoration: none;
+  margin-left: 30px;
 }
 
 .email-link:hover {
